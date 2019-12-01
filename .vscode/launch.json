@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DiffieHellman",
+            "request": "launch",
+            "mainClass": "diffiehellman.DiffieHellman",
+            "projectName": "Diffie–Hellman_Protocol_2453eef8"
+        }
+    ]
+}
